@@ -147,3 +147,9 @@ Veja o resultado:
 É importante frisar que as possibilidades são bem maiores do que o simples exemplo mostrado aqui, você pode aplicar transformações, correlacionar e até aplicar algum tipo de inteligência artificial para tirar conclusões sobre seus dados.
 
 O ponto principal é que esta feature quebra uma das barreiras da extração de dados, facilitando (e muito) este processo.
+
+
+> **Atenção**
+>
+> Se quiser se aprofundar mais sobre os type providers você pode encontrar a documentação completa da Microsoft [aqui](https://docs.microsoft.com/en-us/dotnet/fsharp/tutorials/type-providers/).
+
