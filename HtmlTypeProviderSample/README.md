@@ -2,12 +2,6 @@
 
 Olá pessoas!
 
-Hoje vamos mudar um pouquinho de linguagem, eu tenho dado muitos exemplos em C#, mas adivinha só?
-
-**Não** existe só ele.
-
-Esse tipo de raciocínio serve para qualquer desenvolvedor de qualquer plataforma, você pode gostar da sua linguagem, não há nada de errado nisso, mas ela nem sempre vai ser a melhor opção.
-
 Hoje é um exemplo bastante claro, vamos propor um problema simples: *extrair dados da web*.
 
 Ok, isso é bastante genérico, vamos ser mais específicos.
