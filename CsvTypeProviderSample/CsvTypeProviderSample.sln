@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "CsvTypeProviderSample", "CsvTypeProviderSample\CsvTypeProviderSample.fsproj", "{5E48B03D-D165-44C9-9139-249AE1C2537B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E48B03D-D165-44C9-9139-249AE1C2537B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E48B03D-D165-44C9-9139-249AE1C2537B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E48B03D-D165-44C9-9139-249AE1C2537B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E48B03D-D165-44C9-9139-249AE1C2537B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38D48D0D-01CE-4FDB-A9AB-DE2AA7447401}
+	EndGlobalSection
+EndGlobal

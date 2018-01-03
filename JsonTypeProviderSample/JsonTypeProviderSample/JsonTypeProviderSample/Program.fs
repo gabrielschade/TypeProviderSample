@@ -4,6 +4,7 @@ open FSharp.Data
 [<Literal>]
 let url = "https://api.github.com/users/gabrielschade"
 type PerfilGitHub = JsonProvider<url>
+
 [<EntryPoint>]
 let main argv =
     let perfil = PerfilGitHub.Load url
