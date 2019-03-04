@@ -14,10 +14,10 @@ let main argv =
         bancoDadosGlobal.Countries.Japan
     |]
 
-    printfn "País | Capital | População | Homens | Mulheres | 0-14 anos | 15-64 anos | acima"
+    printfn "País;Capital;População;Homens;Mulheres;0-14 anos;15-64 anos;acima"
     paises
     |> Array.iter ( fun pais -> 
-        printfn "%s | %s | %.0f | %.0f | %.0f | %.0f | %.0f | %.0f" 
+        printfn "%s;%s;%.0f;%.0f;%.0f;%.0f;%.0f;%.0f" 
             pais.Name 
             pais.CapitalCity
             pais.Indicators.``Population, total``.[2015]

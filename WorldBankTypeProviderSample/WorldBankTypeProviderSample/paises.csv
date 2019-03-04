@@ -1,0 +1,11 @@
+C:\Users\re035148\Documents\GitHub\TypeProviderSample\WorldBankTypeProviderSample\WorldBankTypeProviderSample\WorldBankTypeProviderSample.fsproj : warning NU1701: Package 'FSharp.Data 2.4.6' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.0'. This package may not be fully compatible with your project.
+C:\Users\re035148\Documents\GitHub\TypeProviderSample\WorldBankTypeProviderSample\WorldBankTypeProviderSample\WorldBankTypeProviderSample.fsproj : warning NU1701: Package 'FSharp.Data 2.4.6' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.0'. This package may not be fully compatible with your project.
+Pa¡s;Capital;Popula‡Æo;Homens;Mulheres;0-14 anos;15-64 anos;acima
+Brazil;Brasilia;205962108;101283707;104678401;46362646;143204007;16395455
+Canada;Ottawa;35832513;17774151;18058362;5725293;24321094;5786127
+Ireland;Dublin;4646554;2304563;2341991;1009938;3021883;614733
+United Kingdom;London;65128861;32099343;33029518;11452698;41873827;11802337
+United States;Washington D.C.;320896618;158747453;162149165;61653419;212262832;46980367
+China;Beijing;1371220000;706463193;664756807;242508393;996030376;132681231
+Japan;Tokyo;127141000;62118491;65022509;16517168;77547638;33076195
+
