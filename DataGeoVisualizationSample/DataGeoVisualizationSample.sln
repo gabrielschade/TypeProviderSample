@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "DataGeoVisualizationSample", "DataVisualizationSample\DataGeoVisualizationSample.fsproj", "{15BCAE04-21B1-44DB-8D8C-A61D50C893D8}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "DataGeoVisualizationSample", "DataGeoVisualizationSample\DataGeoVisualizationSample.fsproj", "{15BCAE04-21B1-44DB-8D8C-A61D50C893D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
